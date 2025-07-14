@@ -1,0 +1,13 @@
+📈 Future Enhancements (Ideas)
+Add category tags (e.g. Food, Travel, Bills)
+
+Monthly/weekly summaries
+
+Graphical UI using Tkinter or PyQt
+
+Export reports to PDF
+
+Password protection
+
+
+FEEL FREE TO CONTRIBUTE FOR THIS
